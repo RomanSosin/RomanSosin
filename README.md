@@ -1,6 +1,8 @@
 [![Header](https://github.com/RomanSosin/RomanSosin/blob/main/assets/Header_sosin.jpg)](https://t.me/rom_hah)
 
-About me 
+## Weclome! 
+### My name is Roma 
+### I'm a beginer **QA Engineer**
 
 Skills 
 
