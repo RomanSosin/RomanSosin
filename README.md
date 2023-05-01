@@ -19,5 +19,5 @@
 
 ## Contacts 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-df9a60?style=flat-square&logo=Gmail)](sosinrd@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-df9a60?style=flat-square&logo=Gmail)](<sosinrd@gmail.com>)
 [![Telegram](https://img.shields.io/badge/-Telegram-df9a60?style=flat-square&logo=Telegram)](https://t.me/rom_hah)
