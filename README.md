@@ -20,7 +20,11 @@
 ![Github](https://img.shields.io/badge/-Github-df9a60?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-df9a60?style=flat-square&logo=figma)
 
+## Testing Documentation 
+
+[[Test Suite and Test Cases]](https://github.com/RomanSosin/Test-Suite_and_Test-Cases "Examples my test-suit and test-cases")
+
 
 ## Contacts 
 
-[![Telegram](https://img.shields.io/badge/-Telegram-df9a60?style=flat-square&logo=Telegram)](https://t.me/rom_hah)
+[Telegram](https://img.shields.io/badge/-Telegram-df9a60?style=flat-square&logo=Telegram)(https://t.me/rom_hah)
