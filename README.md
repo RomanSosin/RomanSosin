@@ -27,4 +27,4 @@
 
 ## Contacts 
 
-[Telegram](https://img.shields.io/badge/-Telegram-df9a60?style=flat-square&logo=Telegram)(https://t.me/rom_hah)
+[![Telegram](https://img.shields.io/badge/-Telegram-df9a60?style=flat-square&logo=Telegram)](https://t.me/rom_hah)
