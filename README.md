@@ -22,7 +22,7 @@
 
 ## Testing Documentation 
 
-[[Test Suite and Test Cases]](https://github.com/RomanSosin/Test-Suite_and_Test-Cases "Examples my test-suit and test-cases")
+* [Test Suite and Test Cases](https://github.com/RomanSosin/Test-Suite_and_Test-Cases "Examples my test-suit and test-cases")
 
 
 ## Contacts 
