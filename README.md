@@ -20,11 +20,6 @@
 ![Github](https://img.shields.io/badge/-Github-df9a60?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-df9a60?style=flat-square&logo=figma)
 
-## Testing Documentation 
-* [Checklists](https://github.com/RomanSosin/Checklists "Examples my checklists")
-* [Test Suite and Test Cases](https://github.com/RomanSosin/Test-Suite_and_Test-Cases "Examples my test-suit and test-cases")
-
-
 
 ## Contacts 
 
