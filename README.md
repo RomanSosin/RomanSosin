@@ -9,7 +9,7 @@
 ### I'm a **QA Engineer**
 
 ## Skills 
-![Web-Testing](https://img.shields.io/badge/-Manual_testing-df9a60?style=flat-square&logo=)
+![Web-Testing](https://img.shields.io/badge/-Web_testing-df9a60?style=flat-square&logo=)
 ![Mobile-testing](https://img.shields.io/badge/-Mobile_testing-df9a60?style=flat-square&logo=Apple)
 ![Postman](https://img.shields.io/badge/-Postman-df9a60?style=flat-square&logo=postman)
 ![Devtools](https://img.shields.io/badge/-Devtools-df9a60?style=flat-square&logo=googlechrome)
